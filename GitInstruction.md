@@ -28,6 +28,8 @@
 
 * *git merge branch_name* - слияние веток, переносит изменения из branch_name в master;
 
+* *git branch -d branch_name* - удаление ветки;
+
 ## Базовые термины третьего семинара
 
 
