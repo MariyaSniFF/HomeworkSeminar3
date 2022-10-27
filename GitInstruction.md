@@ -26,6 +26,7 @@
 
 * *git checkout branch_name* - переключаемся между ветками;
 
+* *git merge branch_name* - слияние веток, переносит изменения из branch_name в master;
 
 ## Базовые термины третьего семинара
 
