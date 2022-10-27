@@ -26,7 +26,7 @@
 
 * *git checkout branch_name* - переключаемся между ветками;
 
-* *git branch branch_name* - создание ветки;
+
 
 * *Secret* - non info
 
