@@ -28,6 +28,8 @@
 
 * *Secret* - non info
 
+* *Secret4* - non info
+
 ## Базовые термины третьего семинара
 
 
