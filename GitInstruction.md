@@ -26,6 +26,10 @@
 
 * *git checkout branch_name* - переключаемся между ветками;
 
+* *git branch -D branch_name* - принудительное удаление ветки;
+
+* *git log --graph* - показывает log со всеми ветками;
+
 * *git merge branch_name* - слияние веток, переносит изменения из branch_name в master;
 
 * *git branch -d branch_name* - удаление ветки;
